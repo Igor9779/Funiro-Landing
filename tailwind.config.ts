@@ -13,6 +13,12 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        gilroy: ['Gilroy', 'sans-serif'],
+      },
+      colors: {
+        'custom-gray-opacity': 'rgba(224, 224, 224, 0.4)',
+      },
     },
   },
   plugins: [],
